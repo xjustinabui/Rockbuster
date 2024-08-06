@@ -31,5 +31,5 @@ Rockbuster dataset provided by CareerFoundry. It encompasses information regardi
 
 # Folders
 + Project Management: Project Brief
-+ Scripts: Jupyter notebook containing Python coding for analysis
++ Scripts: Excel file with multiple tabs showcasing SQL queries and its respective data for analysis
 + Sent to Client: Final report which includes Data Dictionary, PowerBI, and Power Point (PDF) files
